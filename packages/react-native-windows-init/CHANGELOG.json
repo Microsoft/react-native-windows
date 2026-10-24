@@ -2,6 +2,27 @@
   "name": "react-native-windows-init",
   "entries": [
     {
+      "date": "Sat, 24 Oct 2026 19:25:03 GMT",
+      "version": "0.83.3",
+      "tag": "react-native-windows-init_v0.83.3",
+      "comments": {
+        "patch": [
+          {
+            "author": "vmorozov@microsoft.com",
+            "package": "react-native-windows-init",
+            "commit": "a9a88d03475c93f7b196b7934e43b7ed678982ae",
+            "comment": "Migrate package metadata to Yarn 4"
+          },
+          {
+            "author": "beachball",
+            "package": "react-native-windows-init",
+            "comment": "Bump @react-native-windows/cli to v0.83.3",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 16 Jun 2026 09:54:41 GMT",
       "version": "0.83.2",
       "tag": "react-native-windows-init_v0.83.2",
