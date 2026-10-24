@@ -1,8 +1,16 @@
 # Change Log - @react-native-windows/perf-testing
 
-<!-- This log was last generated on Tue, 16 Jun 2026 09:54:41 GMT and should not be manually modified. -->
+<!-- This log was last generated on Sat, 24 Oct 2026 19:25:03 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.83.2
+
+Sat, 24 Oct 2026 19:25:03 GMT
+
+### Patches
+
+- Migrate package metadata to Yarn 4 (vmorozov@microsoft.com)
 
 ## 0.83.1
 

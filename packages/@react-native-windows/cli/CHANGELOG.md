@@ -1,8 +1,17 @@
 # Change Log - @react-native-windows/cli
 
-<!-- This log was last generated on Tue, 16 Jun 2026 09:54:41 GMT and should not be manually modified. -->
+<!-- This log was last generated on Sat, 24 Oct 2026 19:25:03 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.83.3
+
+Sat, 24 Oct 2026 19:25:03 GMT
+
+### Patches
+
+- Sync pipeline and CLI test changes to 0.83-stable (vmorozov@microsoft.com)
+- Bump @react-native-windows/codegen to v0.83.2
 
 ## 0.83.2
 
