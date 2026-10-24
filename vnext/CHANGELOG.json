@@ -2,6 +2,21 @@
   "name": "react-native-windows",
   "entries": [
     {
+      "date": "Sat, 24 Oct 2026 19:21:54 GMT",
+      "version": "0.85.1",
+      "tag": "react-native-windows_v0.85.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "vmorozov@microsoft.com",
+            "package": "react-native-windows",
+            "commit": "9a2d830fdd4a8adac1b67f3d6e1979dcee16d49e",
+            "comment": "Route repository and CI package restores through PackageFeedProxy"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 15 Oct 2026 20:50:56 GMT",
       "version": "0.85.0",
       "tag": "react-native-windows_v0.85.0",
